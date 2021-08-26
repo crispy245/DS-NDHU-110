@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Not Necesarry
+*.json
+.vscode/
